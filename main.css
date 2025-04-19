@@ -1,0 +1,86 @@
+body{
+background: white;
+color: #999;
+font-family: arial;
+}
+header{
+	color: #999;
+	background: #CFECEC;
+	padding :25px 25px 0px 25px;
+}
+header h1{
+		font-family: "Times New Roman";
+
+	font-size:40px;
+	list-style-type: none;
+	margin: 0;
+	display: inline;
+	padding :0px 25px 25px 25px;
+}
+.h {
+	font-size:40px;
+	font-family: "Times New Roman";
+	list-style-type: none;
+	margin: 100;
+	clear: both;
+	padding :25px 25px 25px 25px;
+}
+.b {
+	font-size:20px;
+	font-family: arial;
+	margin: 100;
+	clear: both;
+	padding :25px 25px 25px 25px;
+}
+nav ul li{
+	background: white;
+list-style-type: none;
+display: inline-block;
+padding: 10px 20px;
+}
+nav ul li a{
+		color: #CFECEC;
+}
+.img-dog{
+	display: inline-block;
+	width: 300px;
+	float:left;
+	padding-bottom:20px;
+	background: white;
+}
+.img-dog2{
+	display: block;
+	width: 300px;
+	clear: both;
+	padding-bottom:20px;
+	
+}
+.img-dog3{
+	display: block;
+	width: 800px;
+	float:left;
+	padding:20px;
+	
+}
+.img-dog4{
+	display: block;
+	width: 800px;
+	clear: both;
+	padding:40px;
+	
+}
+figure{
+	display: inline-block;
+	width: 300px;
+		float:left;
+}
+figcaption{
+	display: inline-block;
+}
+article{
+	display: inline-block;
+}
+.a2{
+	clear: both;
+	display: block;
+}
